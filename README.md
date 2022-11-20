@@ -1,3 +1,3 @@
 # https://enviodeemailjs.netlify.app/
-En este proyecto se estudia el manejo de email y la autenticacion. 
+En este proyecto se estudia el manejo de email y la autenticacion utilizando js. 
 
