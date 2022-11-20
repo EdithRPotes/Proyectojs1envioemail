@@ -1,3 +1,3 @@
-# Proyectojs1
+# Proyectojs1:En este proyecto se estudia el manejo de email y la autenticacion. 
 https://enviodeemailjs.netlify.app/
-En este proyecto se estudia el manejo de email y la autenticacion. 
+
